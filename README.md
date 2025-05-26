@@ -33,10 +33,5 @@ A Python Tkinter-based travel assistant with weather, map, forex, itinerary, tra
 - **Itinerary Planner**: Plan and export your trip.
 - **Emergency SOS**: Quick-access emergency popup.
 
-## Installation
-
-1. **Clone the repository:**
-git clone https://github.com/yourusername/travel-guide-app.git
-cd travel-guide-app
 
 
