@@ -10,12 +10,20 @@ A Python Tkinter-based travel assistant that brings together weather updates, ma
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+* [Screen Shots of the UI(TKINTER)](#Screen-Shots-of-the-UI(TKINTER))
 * [Features](#features)
 * [Tech Stack & APIs](#tech-stack--apis)
 * [Screenshots](#screenshots)
 * [Getting Started](#getting-started)
 * [Development Insights](#development-insights)
 * [Future Enhancements](#future-enhancements)
+
+---
+
+
+## About the Project
+
+This app was built in my first semester as a way to learn Python and apply what I was learning to a real-world project. It combines several travel-related features into one easy-to-use desktop application.
 
 ---
 ## Screen Shots of the UI(TKINTER)
@@ -29,13 +37,6 @@ A Python Tkinter-based travel assistant that brings together weather updates, ma
 ![447499272-98e07e7b-d00a-4a8b-b5aa-870e4fa401b1](https://github.com/user-attachments/assets/5ff31055-8a03-4483-9c9b-6c9fe521bff8)
 ![447499773-b7093ed6-5283-4364-997f-9c8c3ec4b998](https://github.com/user-attachments/assets/d5022bff-3f5b-4ae4-9eff-e5eaad469af4)
 ![447499907-0d94bf4f-c321-4e3b-b86b-4cf2806cc4ed](https://github.com/user-attachments/assets/baf8ed44-4c50-4984-8ac4-b55c44ecf9b3)
-
----
-
-## About the Project
-
-This app was built in my first semester as a way to learn Python and apply what I was learning to a real-world project. It combines several travel-related features into one easy-to-use desktop application.
-
 ---
 
 ## Features
