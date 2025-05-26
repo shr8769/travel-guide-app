@@ -36,4 +36,7 @@ A Python Tkinter-based travel assistant with weather, map, forex, itinerary, tra
 ## Installation
 
 1. **Clone the repository:**
+git clone https://github.com/yourusername/travel-guide-app.git
+cd travel-guide-app
+
 
