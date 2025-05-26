@@ -1,0 +1,8 @@
+wikipedia
+requests
+googletrans==4.0.0-rc1
+opencage
+pytz
+openpyxl
+pandas
+tkintermapview
