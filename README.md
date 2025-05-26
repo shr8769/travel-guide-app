@@ -18,7 +18,7 @@ A Python Tkinter-based travel assistant that brings together weather updates, ma
 * [Future Enhancements](#future-enhancements)
 
 ---
-#Screen Shots of the UI(TKINTER)
+## Screen Shots of the UI(TKINTER)
 
 
 ---
