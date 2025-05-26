@@ -54,11 +54,7 @@ This app was built in my first semester as a way to learn Python and apply what 
 
 ---
 
-## Screenshots
 
-*(Add screenshots of your app UI here. For example: main menu, weather screen, map viewer, etc.)*
-
----
 
 ## Getting Started
 
